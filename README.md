@@ -93,7 +93,11 @@ streamlit run app.py
 
 ## 🎨 Screenshots
 
-> 📸 *[Add a few screenshots of your frontend here]*
+![image](https://github.com/user-attachments/assets/0d08dabd-f8b1-4aa5-b548-207163cc653d)
+
+![image](https://github.com/user-attachments/assets/268b1330-c530-48df-98ac-45138d3c63be)
+
+![image](https://github.com/user-attachments/assets/e8f1baff-df22-477c-b75f-085199fad5db)
 
 ---
 
