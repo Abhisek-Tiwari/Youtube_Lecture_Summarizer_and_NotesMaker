@@ -1,0 +1,10 @@
+fastapi
+transformers
+torch
+openai-whisper
+yt-dlp
+streamlit
+uvicorn
+requests
+python-multipart
+pydantic
