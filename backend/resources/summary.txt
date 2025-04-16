@@ -1,0 +1,1 @@
+The TypeScript language is a strict superset of JavaScript. It lets you write plain JavaScript with all of its extra features being completely optional. The beauty of having strongly typed code is that we get auto-complete everywhere in our IDE. If you like TypeScript, consider becoming a pro member at FireShip.io.
