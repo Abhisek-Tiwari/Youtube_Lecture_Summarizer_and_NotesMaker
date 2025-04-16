@@ -59,14 +59,20 @@ git clone https://github.com/Abhisek-Tiwari/youtube-summarizer.git
 cd youtube-summarizer
 ```
 
-2️⃣ Install backend dependencies  
+2️⃣ Install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+
+3️⃣ Install backend dependencies  
 ```bash
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-3️⃣ Install frontend dependencies  
+4️⃣ Install frontend dependencies  
 ```bash
 cd frontend
 pip install -r requirements.txt
